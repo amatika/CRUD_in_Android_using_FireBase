@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772741476245",
+    "firebase_url": "https://fir-crud-784c5-default-rtdb.firebaseio.com",
+    "project_id": "fir-crud-784c5",
+    "storage_bucket": "fir-crud-784c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772741476245:android:3a9a5eb4d11565ee37909c",
+        "android_client_info": {
+          "package_name": "com.tiger.firebasecrud_in_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772741476245-4j2uusqh9g1j7ossq1034efs0osek4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Xo4mgndiFcs4xsdoT7UoAxtQuzTeMSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772741476245-4j2uusqh9g1j7ossq1034efs0osek4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
